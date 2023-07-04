@@ -1,7 +1,7 @@
-**Aravindh Krishnamoorthy** is presently at Friedrich-Alexander University of Erlangen-Nuremberg.\
+**Aravindh Krishnamoorthy** is presently at the Friedrich-Alexander University of Erlangen-Nuremberg.\
 **Webpage:** [https://sites.google.com/view/aravindhkrishnamoorthy](https://sites.google.com/view/aravindhkrishnamoorthy)
 
-This profile is mainly for my private contributions to open source projects.
+This profile is mainly for my private contributions to open source GitHub projects.
 
 # Current Tasks
 Once the open items on the following list are complete, I will look for new things to do. The sign ⚡ is used to mark my current task.
