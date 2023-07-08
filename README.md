@@ -7,5 +7,5 @@ This profile is mainly for my private contributions to open source GitHub projec
 Once the open items on the following list are complete, I will look for new things to do. The sign ⚡ is used to mark my current task.
 
 - [ ] Solve https://github.com/JuliaLang/julia/issues/47513
-- [ ] ⚡Implement in-place Bunchkaufmann-based generalized eigenvalues and eigenvectors in Julia. Development branch: [bk](https://github.com/aravindh-krishnamoorthy/julia/tree/bk)
+- [ ] ⚡Implement in-place Bunchkaufmann-based generalized eigenvalues and eigenvectors in Julia. PR: https://github.com/JuliaLang/julia/pull/50471
 - [X] Solve https://github.com/Reference-LAPACK/lapack/issues/826 (* https://github.com/JuliaLang/julia/issues/48514), https://github.com/JuliaLang/julia/issues/49533, https://github.com/JuliaLang/julia/issues/48911, https://github.com/JuliaLang/julia/issues/49489
