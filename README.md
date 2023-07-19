@@ -4,7 +4,7 @@
 This profile is mainly for my private contributions to open source GitHub projects.
 
 # Current Tasks
-Once the open items on the following list are complete, I will look for new things to do. The sign ⚡ is used to mark my current task.
+Once the open items on the following list are complete, I will look for new things to do. The sign ⚡ is used to mark my current task/s.
 
 - [ ] ⚡Solve https://github.com/JuliaLang/julia/issues/47513
 - [ ] ⚡Implement in-place Bunchkaufmann-based generalized eigenvalues and eigenvectors in Julia. PR: https://github.com/JuliaLang/julia/pull/50471
