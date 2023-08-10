@@ -7,6 +7,6 @@ This profile is mainly for my private contributions to open source GitHub projec
 Once the open items on the following list are complete, I will look for new things to do. The sign ⚡ is used to mark my current task/s.
 
 - [ ] ⚡Implement `matrix_function(f, X)` Code: [MatrixFunctions.jl](https://github.com/aravindh-krishnamoorthy/MatrixFunctions.jl/tree/main)
-- [ ] Implement `cbrt(A::AbstractMatrix{<:Real})` -> issue: https://github.com/JuliaLang/julia/issues/47513 PR: https://github.com/JuliaLang/julia/pull/50661
+- [ ] Implement `cbrt(A::AbstractMatrix{<:Real})` $\rightarrow$ issue: https://github.com/JuliaLang/julia/issues/47513 PR: https://github.com/JuliaLang/julia/pull/50661
 - [ ] Implement in-place Bunchkaufmann- and LU- based generalized eigenvalues and eigenvectors in Julia. PR: https://github.com/JuliaLang/julia/pull/50471
 - [X] Solve https://github.com/Reference-LAPACK/lapack/issues/826 (* https://github.com/JuliaLang/julia/issues/48514), https://github.com/JuliaLang/julia/issues/49533, https://github.com/JuliaLang/julia/issues/48911, https://github.com/JuliaLang/julia/issues/49489
