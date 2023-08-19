@@ -4,7 +4,7 @@
 An engineer and an applied mathematician. So, one of my favourite equations is: $3^{3i} + 1 = 0.$ This profile is mainly for my private contributions to open source GitHub projects.
 
 # Current Tasks
-Once the open items on the following list are complete, I will look for new things to do. The sign ⚡ is used to mark my current task/s.
+Once the open items on the following list are complete, I will look for new things to do. The sign ⚡ is used to mark my current task/s. Ticked check boxes are PRs that are complete but not yet merged.
 
 - [ ] ⚡Pull request: https://github.com/JuliaLang/julia/pull/50950
 - [ ] ⚡Implement `matrix_function(f, X)` Code: [MatrixFunctions.jl](https://github.com/aravindh-krishnamoorthy/MatrixFunctions.jl/tree/main)
