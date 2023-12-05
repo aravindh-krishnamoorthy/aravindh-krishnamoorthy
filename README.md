@@ -8,6 +8,5 @@ Once the open items on the following list are complete, I will look for new thin
 
 - [ ] ⚡Implement matrix functions and their Fréchet derivatives. Code: [MatrixFunctions.jl](https://github.com/aravindh-krishnamoorthy/MatrixFunctions.jl/tree/main)
 - [ ] ⚡Implement in-place Bunchkaufmann- and LU- based generalized eigenvalues and eigenvectors in Julia. PR: https://github.com/JuliaLang/julia/pull/50471
-- [X] Implement `cbrt(A::AbstractMatrix{<:Real})` $\rightarrow$ issue: https://github.com/JuliaLang/julia/issues/47513 PR: https://github.com/JuliaLang/julia/pull/50661
 
 Closed pull requests: https://github.com/pulls?q=is%3Apr+author%3Aaravindh-krishnamoorthy+is%3Aclosed+
