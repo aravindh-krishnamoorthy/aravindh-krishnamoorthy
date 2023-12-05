@@ -12,4 +12,4 @@ Once the open items on the following list are complete, I will look for new thin
 | | |
 |---|---|
 | My closed pull requests | https://github.com/pulls?q=is%3Apr+author%3Aaravindh-krishnamoorthy+is%3Aclosed+ |
-| Issues where I'm involved | https://github.com/pulls?q=is%3Aissue+involves%3Aaravindh-krishnamoorthy |
+| Pull requests and issues where I'm involved | https://github.com/pulls?q=involves%3Aaravindh-krishnamoorthy |
