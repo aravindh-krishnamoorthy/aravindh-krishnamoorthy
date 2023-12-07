@@ -6,8 +6,9 @@ An engineer and an applied mathematician. So, one of my favourite equations is: 
 # Current Tasks
 Once the open items on the following list are complete, I will look for new things to do. The sign ⚡ is used to mark my current task/s; ☑ are PRs that are complete but not yet merged.
 
+- [ ] ⚡Implement `circshift(::Tuple, ::Int)`
 - [ ] ⚡Implement matrix functions and their Fréchet derivatives. Code: [MatrixFunctions.jl](https://github.com/aravindh-krishnamoorthy/MatrixFunctions.jl/tree/main)
-- [ ] ⚡Implement in-place Bunchkaufmann- and LU- based generalized eigenvalues and eigenvectors in Julia. PR: https://github.com/JuliaLang/julia/pull/50471
+- [X] Implement in-place Bunchkaufmann- and LU- based generalized eigenvalues and eigenvectors in Julia. PR: https://github.com/JuliaLang/julia/pull/50471
 
 | | |
 |---|---|
