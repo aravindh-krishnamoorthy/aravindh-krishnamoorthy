@@ -8,7 +8,6 @@ Once the open items on the following list are complete, I will look for new thin
 
 - [ ] ⚡Implement `circshift(::Tuple, ::Int)` PR: https://github.com/JuliaLang/julia/pull/52438
 - [ ] ⚡Implement matrix functions and their Fréchet derivatives. Code: [MatrixFunctions.jl](https://github.com/aravindh-krishnamoorthy/MatrixFunctions.jl/tree/main)
-- [X] Implement in-place Bunchkaufmann- and LU- based generalized eigenvalues and eigenvectors in Julia. PR: https://github.com/JuliaLang/julia/pull/50471
 
 | | |
 |---|---|
