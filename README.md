@@ -7,8 +7,8 @@ An engineer and an applied mathematician. So, one of my favourite equations is: 
 Once the open items on the following list are complete, I will look for new things to do. The sign ⚡ is used to mark my current task/s; ☑ are PRs that are complete but not yet merged.
 
 - [ ] ⚡Implement `circshift(::Tuple, ::Int)` PR: https://github.com/JuliaLang/julia/pull/52438
-- [ ] ⚡Fix https://github.com/qojulia/QuantumOptics.jl/issues/364
 - [ ] ⚡Implement matrix functions and their Fréchet derivatives. Code: [MatrixFunctions.jl](https://github.com/aravindh-krishnamoorthy/MatrixFunctions.jl/tree/main)
+- [ ] Fix https://github.com/qojulia/QuantumOptics.jl/issues/364
 - [ ] Check if [FriCAS Install Page](https://fricas.github.io/install.html) is up to date and the instructions work
 
 | | |
