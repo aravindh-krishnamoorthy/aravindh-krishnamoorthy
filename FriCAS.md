@@ -1,4 +1,5 @@
 # FriCAS Development
+[FriCAS](https://fricas.sourceforge.net/): The coolest CAS tool with types (!)
 
 ## Items
 
