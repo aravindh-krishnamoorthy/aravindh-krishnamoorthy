@@ -1,0 +1,1 @@
+- [ ] Check if [FriCAS Install Page](https://fricas.github.io/install.html) is up to date and the instructions work
