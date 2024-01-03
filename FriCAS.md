@@ -1,5 +1,5 @@
 # FriCAS Customizations and Development
-[FriCAS](https://fricas.sourceforge.net/): The coolest CAS tool with types (!)
+[FriCAS](https://fricas.sourceforge.net/): The coolest CAS tool with types out there (!)
 
 ## Customizations
 _These are to help me work better with my FriCAS environment and may not apply directly to you._
