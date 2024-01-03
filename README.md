@@ -9,7 +9,7 @@ Once the open items on the following list are complete, I will look for new thin
 - [ ] ⚡Implement `circshift(::Tuple, ::Int)` PR: https://github.com/JuliaLang/julia/pull/52438
 - [ ] ⚡Implement matrix functions and their Fréchet derivatives. Code: [MatrixFunctions.jl](https://github.com/aravindh-krishnamoorthy/MatrixFunctions.jl/tree/main)
 - [ ] Fix https://github.com/qojulia/QuantumOptics.jl/issues/364
-- [ ] Check if [FriCAS Install Page](https://fricas.github.io/install.html) is up to date and the instructions work
+- [ ] [FriCAS development](https://github.com/aravindh-krishnamoorthy/aravindh-krishnamoorthy/blob/main/FriCAS.md)
 
 | | |
 |---|---|
