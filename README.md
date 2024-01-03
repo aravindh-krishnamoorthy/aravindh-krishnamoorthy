@@ -15,6 +15,8 @@ Once the open items on the following list are complete, I will look for new thin
 | My closed pull requests | https://github.com/pulls?q=is%3Apr+author%3Aaravindh-krishnamoorthy+is%3Aclosed+ |
 | Pull requests and issues where I'm involved | https://github.com/pulls?q=involves%3Aaravindh-krishnamoorthy |
 
+Note: These links are only accessible when logged onto GitHub.
+
 # Packages
 Once the open items on the following list are complete, I will look for new things to do. The sign ⚡ is used to mark packages under development; ☑ are complete.
 
