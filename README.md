@@ -10,12 +10,11 @@ Once the open items on the following list are complete, I will look for new thin
 - [ ] Fix https://github.com/qojulia/QuantumOptics.jl/issues/364
 - [ ] [FriCAS customizations and development](https://github.com/aravindh-krishnamoorthy/aravindh-krishnamoorthy/blob/main/FriCAS.md)
 
-| | |
-|---|---|
-| My closed pull requests | https://github.com/pulls?q=is%3Apr+author%3Aaravindh-krishnamoorthy+is%3Aclosed+ |
-| Pull requests and issues where I'm involved | https://github.com/pulls?q=involves%3Aaravindh-krishnamoorthy |
+## GitHub Statistics
+_Links are only accessible when logged onto GitHub._
 
-Note: These links are only accessible when logged onto GitHub.
+- [My closed pull requests](https://github.com/pulls?q=is%3Apr+author%3Aaravindh-krishnamoorthy+is%3Aclosed+)
+- [Pull requests and issues where I'm involved](https://github.com/pulls?q=involves%3Aaravindh-krishnamoorthy)
 
 # Packages
 Once the open items on the following list are complete, I will look for new things to do. The sign ⚡ is used to mark packages under development; ☑ are complete.
