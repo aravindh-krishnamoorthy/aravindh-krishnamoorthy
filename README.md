@@ -6,10 +6,10 @@ A signal processing engineer and an applied mathematician. This profile is mainl
 # Current Tasks
 Once the open items on the following list are complete, I will look for new things to do. The sign ⚡ is used to mark my current task/s; ☑ are PRs that are complete but not yet merged.
 
-- [X] Implement `circshift(::Tuple, ::Int)` PR: https://github.com/JuliaLang/julia/pull/52438
-- [ ] Complete documentation PR: https://github.com/JuliaLang/julia/pull/52934
 - [ ] Fix https://github.com/qojulia/QuantumOptics.jl/issues/364
 - [ ] [FriCAS customizations and development](https://github.com/aravindh-krishnamoorthy/aravindh-krishnamoorthy/blob/main/FriCAS.md)
+- [X] Implement `circshift(::Tuple, ::Int)` PR: https://github.com/JuliaLang/julia/pull/52438
+- [X] Complete documentation PR: https://github.com/JuliaLang/julia/pull/52934
 
 ## GitHub Statistics
 _Links are only accessible when logged onto GitHub._
