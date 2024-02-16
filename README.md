@@ -1,7 +1,7 @@
 **Aravindh Krishnamoorthy** is presently at the Friedrich-Alexander University of Erlangen-Nuremberg.\
 **Webpage:** [https://sites.google.com/view/aravindhkrishnamoorthy](https://sites.google.com/view/aravindhkrishnamoorthy)
 
-A communications and signal processing engineer and an applied mathematician. This profile is mainly for my private contributions to open source GitHub projects.
+Topics: Information and communication theories. Signal processing. Linear Algebra. Numerical Linear Algebra. Random matrix theory. This profile is mainly for my private contributions to open source GitHub projects.
 
 # Current Tasks
 Once the open items on the following list are complete, I will look for new things to do. The sign ⚡ is used to mark my current task/s; ☑ are PRs that are complete but not yet merged.
