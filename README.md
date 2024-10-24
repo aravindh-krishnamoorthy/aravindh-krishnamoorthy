@@ -1,4 +1,3 @@
-**Aravindh Krishnamoorthy** is presently at the Friedrich-Alexander University of Erlangen-Nuremberg.\
 **Webpage:** [https://sites.google.com/view/aravindhkrishnamoorthy](https://sites.google.com/view/aravindhkrishnamoorthy)
 
 Topics: Information and communication theories. Signal processing. Linear Algebra. Numerical Linear Algebra. Random matrix theory. This profile is mainly for my private contributions to open source GitHub projects.
