@@ -12,5 +12,4 @@ _Links are only accessible when logged onto GitHub._
 The sign ⚡ is used to mark packages under development; ☑ are complete.
 
 - [ ] ⚡Jupyter kernel for [Mathics](https://mathics.org/). URL: [mathics-jupyter-kernel](https://github.com/aravindh-krishnamoorthy/mathics-jupyter-kernel)
-- [ ] ⚡Matrix functions and their Fréchet derivatives in Julia. URL: [MatrixFunctions.jl](https://github.com/aravindh-krishnamoorthy/MatrixFunctions.jl)
-- [ ] ⚡Novel numerical linear algebra algorithms in MATLAB, Julia, Fortran, Rust, and C/C++. URL: [MatrixAlgorithms](https://github.com/aravindh-krishnamoorthy/MatrixAlgorithms)
+- [ ] ⚡Novel symbolic and numerical linear algebra algorithms in MATLAB, Julia, Fortran, Rust, and C/C++. URL: [MatrixAlgorithms](https://github.com/aravindh-krishnamoorthy/MatrixAlgorithms)
