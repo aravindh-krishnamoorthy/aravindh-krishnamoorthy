@@ -11,5 +11,5 @@ _Links are only accessible when logged onto GitHub._
 # Packages
 The sign ⚡ is used to mark packages under development; ☑ are complete.
 
-- [ ] ⚡Jupyter kernel for [Mathics](https://mathics.org/). URL: [mathics-jupyter-kernel](https://github.com/aravindh-krishnamoorthy/mathics-jupyter-kernel)
 - [ ] ⚡Novel symbolic and numerical linear algebra algorithms in MATLAB, Julia, Fortran, Rust, and C/C++. URL: [MatrixAlgorithms](https://github.com/aravindh-krishnamoorthy/MatrixAlgorithms)
+- [ ] ⚡Rubi Integration support for Mathics3
